@@ -84,7 +84,6 @@ This is a Go-based backend service that utilizes the Google Gemini Vision API to
           "description": "Product description in 50 words max.",
           "similar_products": ["Similar Product 1", "Similar Product 2"]
       },
-      ...
   ]
   ```
 
